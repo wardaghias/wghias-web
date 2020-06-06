@@ -1,0 +1,160 @@
+
+@font-face{
+    src: url(SolveigDisplay.otf);
+    font-family:SolveigDisplayimport;
+}
+@font-face{
+    src:url(Amperzand.ttf);
+    font-family:Amperzandimport;
+}
+
+@font-face{
+    src:url(Bluebell.ttf);
+    font-family:Bluebellimport;	
+}
+
+@font-face{
+    src:url(Meshes.ttf);
+    font-family:Meshesimport;
+}
+@font-face{
+    src:url(Mafakanev.otf);
+    font-family:Mafakanevimport;
+}
+@font-face{
+    src:url(royal.ttf);
+    font-family:royalimport;
+}
+
+.intervalone{	
+    background-color: #CCC;
+    opacity:0.999;
+    width:1263px;
+    height:10px;
+    margin-top:47px;
+    /* <!-- line Afer 1st home page --> */
+
+}
+.boxone{
+    background-color: #306;
+    opacity:0.999;
+    width:1263px;
+    height:350px;
+    margin-top:-1px;
+    /* <!-- box after 1st line interval--> */
+} 
+.paratwo{
+    opacity:0.99;
+    color:white;
+    margin-top:-266px;	
+    font-size:25px;
+    font-family:SolveigDisplayimport;
+    /* <!-- paragraph in 2nd purple box --> */
+} 
+      
+.thirdbox{
+    background-color: #FFF;
+    opacity:0.99;
+    width:1263px;
+    height:1000px;
+    margin-top:97px;
+    /* <!--3rd box --> */
+    
+}
+
+.pflogo{
+    opacity:0.99;
+    margin-top:-950px;
+    margin-left:590px;
+    cursor:pointer;
+    /* <!-- portfolio icon--> */
+}
+
+.headone{
+    opacity:0.99;
+    font-size:30px;
+    font-family:Meshesimport;
+    margin-left:120px;
+    margin-top:30px;
+    font-weight:bolder;
+    /* <!-- heading for responsive png --> */
+}
+.headtwo{
+    opacity:0.99;
+    font-size:32px;
+    font-family:Meshesimport;
+    margin-left:570px;
+    margin-top:-23px;
+    font-weight:bolder;
+    /* <!-- heading for creativity--> */
+}
+.headthree{
+    opacity:0.99;
+    font-size:32px;
+    font-family:Meshesimport;
+    margin-left:900px;
+    margin-top:-25px;
+    font-weight:bolder;
+    /* <!-- heading for printer--> */
+}
+.respons{
+    opacity:0.99;
+    font-size:20px;
+    margin-left:60px;
+    margin-top:190px;
+    font-family:Amperzandimport;
+}
+.crepara{
+    opacity:0.99;
+    font-size:20px;
+    margin-left:460px;
+    margin-top:-220px;
+    font-family:Amperzandimport;
+}
+.planpara{
+    opacity:0.99;
+    font-size:20px;
+    margin-left:890px;
+    margin-top:-220px;
+    font-family:Amperzandimport;
+}
+					
+.picone{
+    opacity:0.99;
+    margin-left:69px;
+    margin-top:22px;
+    cursor:pointer;
+    /* <!-- pic for Responsive web--> */
+}
+                    
+.pictwo{
+    opacity:0.99;
+    margin-left:460px;
+    margin-top:-179px;
+    cursor:pointer;
+    /* <!-- pic for creativy--> */
+}
+.picthree{
+    opacity:0.99;
+    margin-left:850px;
+    margin-top:-179px;
+    cursor:pointer;
+    background-color:transparent;
+    /* <!-- printer png --> */
+}
+.pflogo{
+    opacity:0.99;
+    margin-top:-950px;
+    margin-left:590px;
+    cursor:pointer;
+    /* <!-- portfolio icon--> */
+}
+.pftext{
+    opacity:0.99;
+    font-family:Amperzandimport;
+    font-size:30px;
+    margin-left:540px;
+    margin-top:20px;
+    alignment-adjust:central;
+    /* <!-- portfolio text --> */
+}

@@ -1,0 +1,176 @@
+
+@font-face{
+    src: url(SolveigDisplay.otf);
+    font-family:SolveigDisplayimport;
+}
+@font-face{
+    src:url(Amperzand.ttf);
+    font-family:Amperzandimport;
+}
+
+@font-face{
+    src:url(Bluebell.ttf);
+    font-family:Bluebellimport;	
+}
+
+@font-face{
+    src:url(Meshes.ttf);
+    font-family:Meshesimport;
+}
+@font-face{
+    src:url(Mafakanev.otf);
+    font-family:Mafakanevimport;
+}
+@font-face{
+    src:url(royal.ttf);
+    font-family:royalimport;
+}
+						
+.intervaltwo{
+    opacity:0.99;
+    background-color: #CCC;
+    width:100%;
+    height:6px;
+    /* margin-top:391px; */
+}
+.boxfour{
+    background-color: #FFF;
+    opacity:0.99;
+    width:100%;
+    height:640px;
+    margin-top:-1px;
+    /* <!--4th box --> */
+    
+}
+
+.bill{
+    opacity:0.99;
+    font-family:"royalimport";
+}
+.service{
+    opacity:0.99;
+    margin-left:600px;
+    margin-top:-650px;
+}
+.servicepara{
+    opacity:0.99;
+    margin-left:570px;
+    font-size:40px;
+    margin-top:-1px;
+    font-family:Bluebellimport;
+    
+}
+.boxf{
+    opacity:0.99;
+    background-color: #CCC;
+    width:300px;
+    height:300px;
+    margin-left:90px;
+    margin-top:20px;
+}
+.boxg{
+    opacity:0.99;
+    background-color: #CCC;
+    width:300px;
+    height:300px;
+    margin-left:490px;
+    margin-top:-300px;
+}
+.boxk{
+    opacity:0.99;
+    background-color: #CCC;
+    width:300px;
+    height:300px;
+    margin-left:890px;
+    margin-top:-300px;
+}
+.boxpic{
+    opacity:0.99;
+    margin-left:190px;
+    margin-top:-300px;
+    
+}
+.boxic{
+    opacity:0.99;
+    margin-left:600px;
+    margin-top:-76px;
+}
+.boxpc{
+    opacity:0.99;
+    margin-left:1000px;
+    margin-top:-76px;
+}
+
+.boxfhead{
+    opacity:0.99;
+    font-size:23px;
+    color: #333;
+    margin-lefT:182px;
+    font-family:Amperzandimport;
+}
+.boxchead{
+    opacity:0.99;
+    font-size:23px;
+    color: #000;
+    margin-lefT:592px;
+    font-family:Amperzandimport;
+    margin-top:-21px;
+}
+.boxphead{
+    opacity:0.99;
+    font-size:23px;
+    color: #000;
+    margin-lefT:992px;
+    font-family:Amperzandimport;
+    margin-top:-21px;
+}
+.boxfpara{
+    opacity:0.99;
+    margin-left:100px;
+    font-family:SolveigDisplayimport;
+    font-size:20px;
+}
+.boxcpara{
+    opacity:0.99;
+    margin-left:520px;
+    font-family:SolveigDisplayimport;
+    font-size:20px;
+    margin-top:-170px
+}
+.boxppara{
+    opacity:0.99;
+    margin-left:900px;
+    font-family:SolveigDisplayimport;
+    font-size:20px;
+    margin-top:-180px;
+}
+.intervalthree{
+    background-color: #CCC;
+    opacity:0.999;
+    width:1263px;
+    height:5px;
+    /* margin-top:147px; */
+}
+.Qoutebox{
+    height:400px;
+    width:1263;
+    background-color: #66C;
+}
+.qoutepara{
+    opacity:0.99;
+    margin-top:-320px;
+    font-size:30px;
+    margin-left:200px;
+    font-weight:bolder;
+    font-family:SolveigDisplayimport;
+}
+.qpara{
+    opacity:0.99;
+    margin-left:-120px;
+    font-size:40px;
+}
+.c{
+    font-size:40px;
+    opacity:0.99;
+    font-family:Bluebellimport;
+}

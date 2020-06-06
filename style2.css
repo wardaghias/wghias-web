@@ -1,0 +1,53 @@
+    
+    	
+@font-face{
+    src:url(Bluebell.ttf);
+    font-family:Bluebellimport;	
+}
+
+.card-body{
+    padding: 10px;
+margin: 10px;
+    opacity:0.99;
+                        font-family:Bluebellimport;
+                        background-color: khaki;
+                        border: 5px solid chocolate ;          
+}
+
+.card mb-3{
+    border: 5px solid chocolate ;
+    padding-top: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}
+/* }
+
+.intervalone{	
+    background-color: #CCC;
+    opacity:0.999;
+    width:1263px;
+    height:10px;
+    margin-top:47px;
+    /* <!-- line Afer 1st home page --> */
+/* 
+}
+.boxone{
+    background-color: #306;
+    opacity:0.999;
+    width:1263px;
+    height:350px;
+    margin-top:-1px;
+    /* <!-- box after 1st line interval--> */
+}
+/* 
+.paratwo{
+    opacity:0.99;
+    color:white;
+    margin-top:-266px;	
+    font-size:25px;
+    font-family:SolveigDisplayimport;
+    /* <!-- paragraph in 2nd purple box --> */
+/* } */
+     

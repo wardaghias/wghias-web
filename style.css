@@ -1,0 +1,668 @@
+*{
+						padding:0px;
+						margin:0px;
+}
+.bgimage{
+						opacity:0.74;
+}
+
+.longbar{
+						background-color:#000;
+						width:1263px;
+						height:80px;
+						opacity:0.6;
+						margin-top:-780px;
+						border-bottom: 4px solid  #CCC;
+						<!--header-->
+}
+
+@font-face{
+						src: url(SolveigDisplay.otf);
+						font-family:SolveigDisplayimport;
+}
+@font-face{
+						src:url(Amperzand.ttf);
+						font-family:Amperzandimport;
+}
+			
+@font-face{
+						src:url(Bluebell.ttf);
+						font-family:Bluebellimport;	
+}
+			
+@font-face{
+						src:url(Meshes.ttf);
+						font-family:Meshesimport;
+}
+@font-face{
+						src:url(Mafakanev.otf);
+						font-family:Mafakanevimport;
+}
+@font-face{
+						src:url(royal.ttf);
+						font-family:royalimport;
+}
+.wLeftLogo ul li{
+						font-family:SolveigDisplayimport;
+						list-style:none;
+						color:white;
+						margin-top:-88px;
+						margin-left:10px;
+						font-size:80px;
+						opacity:0.9;
+						cursor:pointer;
+						<!-- w logo-->
+}
+
+		
+.rm ul li{
+						color:white;
+						font-size:23px;
+						margin-left:180px;
+						list-style:none;
+						font-family:SolveigDisplayimport;
+						float:left;
+						opacity:0.9;
+						cursor:pointer;
+						line-height:60px;
+						<!-- header li bar -->
+						
+						
+					
+}
+#po{
+						margin-top:-60px;
+						font-family:SolveigDisplayimport;
+						margin-left:700px;
+						transition:.7s;
+						<!-- header li bar -->
+}
+					
+#ss{
+						margin-top:-60px;
+						font-family:SolveigDisplayimport;
+						margin-left:800px;
+						transition:.7s;
+						<!-- header li bar -->
+}
+#ns{
+						margin-top:-60px;
+						font-family:SolveigDisplayimport;
+						margin-left:900px;
+						transition:.7s;
+						<!-- header li bar -->
+}
+#tm{
+						margin-top:-60px;
+						font-family:SolveigDisplayimport;
+						margin-left:985px;
+						transition:.7s;
+						<!-- header li bar -->
+}
+#ct{
+						margin-top:-60px;
+						font-family:SolveigDisplayimport;
+						margin-left:1070px;
+						transition:.7s;
+						<!-- header li bar -->
+}
+.rm ul li:hover{
+						color: #933;
+						transition:.7s;
+						<!-- header li bar -->
+}
+
+.textpara p{	
+						color: #FFF;
+						font-size:48px;
+						margin-left:280px;
+						margin-top:230px;
+						font-family:SolveigDisplayimport;
+						font-weight:bolder;
+						opacity:0.99;
+						<!-- Center para -->
+						
+}
+#wards{
+						color: #FF0;
+						font-weight:bolder;
+						font-size:50px;
+						<!-- Lingustic paragraph -->
+}
+.textparatwo{
+						font-weight:bolder;
+						font-family:SolveigDisplayimport;
+						color: #FFF;
+						font-size:24px;
+						margin-left:450px;
+						margin-top:-10px;
+						opacity:0.99;
+						<!-- center para -->
+}
+.j{
+						color: #93F;
+						font-weight:bolder;
+						font-size: 70px;
+						font-family: Arial, Helvetica, sans-serif;
+						opacity:0.9;
+						<!-- text para J -->
+}
+.L{
+						color: #006;
+						font-weight:bolder;
+						font-size: 60px;
+						opacity:0.7;
+						font-family:Bluebellimport;
+						<!-- text Para L -->
+}
+.beauty{
+						opacity:0.99;
+						font-family:Bluebellimport;
+}
+input[type=text]
+{
+						width:420px;
+						padding: 12px 20px;
+						box-sizing:border-box;
+						opacity:0.8;
+						margin-left:370px;
+						margin-top:20px;
+						background-color: #9CC;
+						<!-- form -->
+}
+.btn{
+						opacity:0.67;
+						padding:7.5px 22px;
+						margin-top:-43px;
+						margin-left:800px;
+						font-family:SolveigDisplayimport;
+						font-size:20px;
+						font-weight:bolder;
+						cursor:pointer;
+						transition:.6s;
+						<!-- button 1st page -->
+						
+						
+}
+.btn:hover{
+						background-color:#333;
+						color:white;
+						<!-- button hover 1st page -->
+}
+.fb{
+						opacity:0.9;
+						margin-top:100px;
+						margin-left:360px;
+						cursor:pointer;
+						<!-- 1st page png -->
+}
+.twitt{
+						opacity:0.9;
+						margin-top:-44px;
+						margin-left:460px;
+						cursor:pointer;
+						<!-- 1st page png -->
+}
+.pin{
+						opacity:0.9;
+						margin-top:-45px;
+						margin-left:560px;
+						cursor:pointer;
+						<!-- 1st page png -->
+}
+.google{
+						opacity:0.999;
+						margin-top:-45px;
+						margin-left:660px;
+						cursor:pointer;
+						<!-- 1st page png -->
+}
+.skype{
+						opacity:0.9;
+						margin-top:-45px;
+						margin-left:760px;
+						cursor:pointer;
+						<!-- 1st page png -->
+}
+
+.skype{
+						opacity:0.9;
+						margin-top:-45px;
+						margin-left:760px;
+						cursor:pointer;
+						<!-- 1st page png -->
+}
+.insta{
+						opacity:0.99;
+						margin-top:-45px;
+						margin-left:860px;
+						cursor:pointer;
+						<!-- 1st page png -->
+/* }
+.intervalone{	
+						background-color: #CCC;
+						opacity:0.999;
+						width:1263px;
+						height:10px;
+						margin-top:47px;
+						<!-- line Afer 1st home page -->
+					
+}
+.boxone{
+						background-color: #306;
+						opacity:0.999;
+						width:1263px;
+						height:350px;
+						margin-top:-1px;
+						<!-- box after 1st line interval-->
+}
+					
+.paratwo{
+						opacity:0.99;
+						color:white;
+						margin-top:-266px;	
+						font-size:25px;
+						font-family:SolveigDisplayimport;
+						<!-- paragraph in 2nd purple box -->
+}
+						
+.thirdbox{
+						background-color: #FFF;
+						opacity:0.99;
+						width:1263px;
+						height:1000px;
+						margin-top:97px;
+						<!--3rd box -->
+						
+} */
+/* .pflogo{
+						opacity:0.99;
+						margin-top:-950px;
+						margin-left:590px;
+						cursor:pointer;
+						<!-- portfolio icon-->
+}
+.pftext{
+						opacity:0.99;
+						font-family:Amperzandimport;
+						font-size:30px;
+						margin-left:540px;
+						margin-top:20px;
+						alignment-adjust:central;
+						<!-- portfolio text -->
+} */
+/* 						
+.picone{
+						opacity:0.99;
+						margin-left:69px;
+						margin-top:22px;
+						cursor:pointer;
+						<!-- pic for Responsive web-->
+}
+										
+.pictwo{
+						opacity:0.99;
+						margin-left:460px;
+						margin-top:-179px;
+						cursor:pointer;
+						<!-- pic for creativy-->
+}
+.picthree{
+						opacity:0.99;
+						margin-left:850px;
+						margin-top:-179px;
+						cursor:pointer;
+						background-color:transparent;
+						<!-- printer png -->
+} */
+/* 
+						
+.intervaltwo{
+						opacity:0.99;
+						background-color: #CCC;
+						width:1263px;
+						height:6px;
+						margin-top:391px;
+}
+.boxfour{
+						background-color: #FFF;
+						opacity:0.99;
+						width:1263px;
+						height:640px;
+						margin-top:-1px;
+						<!--4th box -->
+						
+}
+.service{
+						opacity:0.99;
+						margin-left:600px;
+						margin-top:-600px;
+}
+.servicepara{
+						opacity:0.99;
+						margin-left:570px;
+						font-size:40px;
+						margin-top:-1px;
+						font-family:Bluebellimport;
+						
+}
+.boxf{
+						opacity:0.99;
+						background-color: #CCC;
+						width:300px;
+						height:300px;
+						margin-left:90px;
+						margin-top:20px;
+}
+.boxg{
+						opacity:0.99;
+						background-color: #CCC;
+						width:300px;
+						height:300px;
+						margin-left:490px;
+						margin-top:-300px;
+}
+.boxk{
+						opacity:0.99;
+						background-color: #CCC;
+						width:300px;
+						height:300px;
+						margin-left:890px;
+						margin-top:-300px;
+}
+.boxpic{
+						opacity:0.99;
+						margin-left:190px;
+						margin-top:-300px;
+						
+}
+.boxic{
+						opacity:0.99;
+						margin-left:600px;
+						margin-top:-76px;
+}
+.boxpc{
+						opacity:0.99;
+						margin-left:1000px;
+						margin-top:-76px;
+/* } */
+/* .boxfhead{
+						opacity:0.99;
+						font-size:23px;
+						color: #333;
+						margin-lefT:182px;
+						font-family:Amperzandimport;
+}
+.boxchead{
+						opacity:0.99;
+						font-size:23px;
+						color: #000;
+						margin-lefT:592px;
+						font-family:Amperzandimport;
+						margin-top:-21px;
+}
+.boxphead{
+						opacity:0.99;
+						font-size:23px;
+						color: #000;
+						margin-lefT:992px;
+						font-family:Amperzandimport;
+						margin-top:-21px;
+}
+.boxfpara{
+						opacity:0.99;
+						margin-left:100px;
+						font-family:SolveigDisplayimport;
+						font-size:20px;
+}
+.boxcpara{
+						opacity:0.99;
+						margin-left:520px;
+						font-family:SolveigDisplayimport;
+						font-size:20px;
+						margin-top:-120px
+}
+.boxppara{
+						opacity:0.99;
+						margin-left:900px;
+						font-family:SolveigDisplayimport;
+						font-size:20px;
+						margin-top:-160px;
+} */ 
+/* .intervalthree{
+						background-color: #CCC;
+						opacity:0.999;
+						width:1263px;
+						height:5px;
+						margin-top:147px;
+}
+.Qoutebox{
+						height:400px;
+						width:1263;
+						background-color: #66C;
+}
+.qoutepara{
+						opacity:0.99;
+						margin-top:-260px;
+						font-size:30px;
+						margin-left:200px;
+						font-weight:bolder;
+						font-family:SolveigDisplayimport;
+}
+.qpara{
+						opacity:0.99;
+						margin-left:-120px;
+						font-size:40px;
+}
+.c{
+						font-size:40px;
+						opacity:0.99;
+						font-family:Bluebellimport;
+} */
+/* .intervalfour{
+						background-color: #000;
+						opacity:0.999;
+						width:1263px;
+						height:5px;
+						margin-top:62px;
+} */
+.bill{
+						opacity:0.99;
+						font-family:"royalimport";
+}
+/* .Finalbox{
+						opacity:0.99;
+						height:1500px;
+						background-color: #FFF;
+						width:1263px;
+}
+.Teampng{
+						opacity:0.99;
+						margin-top:-1500px;
+						margin-left:510px;
+}
+.Teampara{
+						opacity:0.99;
+						font-size:30px;
+						color:black;
+						margin-left:585px;
+						font-weight:bolder;
+						font-family:royalimport;
+}
+.roundedimg{
+						opacity:0.99;
+						width:200px;
+						margin-left:200px;
+						margin-top:50px;
+						
+}
+.roundedimg img{
+						opacity:0.99;
+						border-radius:50%;
+}
+
+.roundig{
+						opacity:0.99;
+						width:200px;
+						margin-left:490px;
+						margin-top:-280px;
+					
+						
+}
+.roundig img{
+						opacity:0.99;
+						border-radius:50%;
+}
+
+.roundg{
+						opacity:0.99;
+						width:200px;
+						margin-left:790px;
+						margin-top:-280px
+}
+.roundg img{
+						opacity:0.99;
+						border-radius:50%;
+}
+.roundpara{
+						opacity:0.99;
+						font-size:20px;
+						color:black;
+						margin-left:250px;
+						margin-top:50px;
+						font-weight:bolder;
+						font-family:royalimport;
+}
+	
+.roundepara{
+						opacity:0.99;
+						font-size:20px;
+						color:black;
+						margin-left:530px;
+						margin-top:-40px;
+						font-weight:bolder;
+						font-family:royalimport;
+}		
+.roundedara{
+										
+						opacity:0.99;
+						font-size:20px;
+						color:black;
+						margin-left:870px;
+						margin-top:-47px;
+						font-weight:bolder;
+						font-family:royalimport;
+						
+}
+.Lastpara{
+						opacity:0.99;
+						font-size:20px;
+						margin-top:60px;
+						font-family:Royalimport;
+}
+
+
+.Lastpara h6{
+						margin-left:-5px;
+						font-size:60px;
+						font-family:Amperzandimport;
+}
+
+.intervalfive{
+						opacity:0.99;
+						width:1263px;
+						height:3px;
+						background-color: #CCC;
+						margin-top:20px;
+}
+
+.contactpng{
+						opacity:0.99;
+						margin-left:590px;
+						margin-top:30px;
+}
+
+
+ */
+
+/* 
+.contact{
+						opacity:0.99;
+						font-size:30px;
+						color:black;
+						margin-left:510px;
+						margin-top:20px;
+						font-family:royalimport;
+						
+} */
+				
+/* 
+input[type=bell]
+{
+						width:420px;
+						padding: 12px 20px;
+						box-sizing:border-box;
+						opacity:0.8;
+						margin-left:410px;
+						margin-top:20px;
+						background-color: #9CC;
+						<!-- last form -->
+}			
+
+
+
+input[type=be]
+{
+						width:420px;
+						padding: 12px 20px;
+						box-sizing:border-box;
+						opacity:0.8;
+						margin-left:410px;
+						margin-top:20px;
+						background-color: #9CC;
+						<!--  last form -->
+}				
+input[type=b]
+{
+						width:420px;
+						padding: 50px 20px;
+						box-sizing:border-box;
+						opacity:0.8;
+						margin-left:410px;
+						margin-top:20px;
+						background-color: #9CC;
+						<!-- last form -->
+
+}					
+.btnone{
+						opacity:0.99;
+						padding:7.5px 22px;
+						margin-top:43px;
+						margin-left:550px;
+						font-family:SolveigDisplayimport;
+						font-size:20px;
+						font-weight:bolder;
+						cursor:pointer;
+						transition:.6s;
+						<!-- button lastt page -->
+						
+						
+}
+.btnone:hover{
+						background-color:#333;
+						color:white;
+						<!-- button hover lastt page -->
+}	
+						
+						
+.end{
+						opacity:0.99;
+						font-size:13px;		
+						font-weight:bolder;		
+						margin-left:490px;
+						margin-top:30px;
+						
+						
+						
+						
+}	 */
